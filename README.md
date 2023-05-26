@@ -14,6 +14,6 @@
 
 
 ### Вариативная самостоятельная работа  
-[Задание 2.1](https://github.com/tannia6849/master_sem1_practis/blob/main/ВСР_2.1.pdf) 
-[Задание 2.2](https://github.com/tannia6849/master_sem1_practis/blob/main/ВСР_2.1.pdf) 
-[Задание 2.3](https://github.com/tannia6849/master_sem1_practis/blob/main/ВСР_2.1.pdf) 
+[Задание 2.1](https://github.com/tannia6849/master_sem2_practis/blob/main/ВСР_2.1.pdf)  
+[Задание 2.2](https://github.com/tannia6849/master_sem2_practis/blob/main/ВСР_2.2.pdf)   
+[Задание 2.3](https://github.com/tannia6849/master_sem2_practis/blob/main/ВСР_2.3.pdf)   
