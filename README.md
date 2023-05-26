@@ -6,12 +6,12 @@
 ### Инвариантная самостоятельная работа    
 [Задание 1.1](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.1.pdf)  
 [Задание 1.2](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.2.pdf)  
-[Задание 1.3](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.3.pdf)  
-[Задание 1.4](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)
-[Задание 1.5](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)
-[Задание 1.6](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)
-[Задание 1.7](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)
-Задание%201.6%20Мельникова%20ТВ.pdf
+[Задание 1.3](https://github.com/tannia6849/master_sem2_practis/blob/main/ИСР_1.3.pdf)  
+[Задание 1.4](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)  
+[Задание 1.5](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)  
+[Задание 1.6](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)  
+[Задание 1.7](https://github.com/tannia6849/master_sem1_practis/blob/main/ИСР_1.4.pdf)  
+
 
 ### Вариативная самостоятельная работа  
 [Задание 2.1](https://github.com/tannia6849/master_sem1_practis/blob/main/ВСР_2.1.pdf) 
